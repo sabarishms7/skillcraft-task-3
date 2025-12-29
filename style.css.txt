@@ -1,9 +1,0 @@
-body{font-family:Arial,Helvetica,sans-serif;background:#14161a;color:#fff;display:flex;align-items:center;justify-content:center;height:100vh;margin:0}
-.container{width:90%;max-width:520px;text-align:center}
-#quiz-box,#result-box{background:#1f2229;padding:28px;border-radius:12px;box-shadow:0 0 18px rgba(0,234,255,0.15)}
-.options{margin-top:18px}
-.option{display:block;width:100%;padding:12px;margin:10px 0;border-radius:8px;border:1px solid rgba(0,234,255,0.35);background:#2c313a;color:#fff;cursor:pointer}
-.option:hover{opacity:0.9}
-#nextBtn{margin-top:12px;width:100%;padding:12px;border-radius:8px;border:none;background:#00eaff;color:#000;cursor:pointer}
-.hide{display:none}
-
